@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityStore"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/etIdStore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ID"
+        />
+
+    <EditText
+        android:id="@+id/etStore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Store"
+        />
+
+    <EditText
+        android:id="@+id/etphone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone"
+        />
+
+    <EditText
+        android:id="@+id/etIdCity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="IdCity"
+        />
+
+    <EditText
+        android:id="@+id/etThumbnail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Thumbnail"
+        />
+
+    <EditText
+        android:id="@+id/etLatitud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Latitud"
+        />
+
+    <EditText
+        android:id="@+id/etLongitud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Longitud"
+        />
+
+    <Button
+        android:id="@+id/btnCrear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CREAR"
+        />
+
+
+</LinearLayout>

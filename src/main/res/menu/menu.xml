@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/itmtecno"
+        android:title="Technology"/>
+
+    <item android:id="@+id/itmhome"
+        android:title="Home"/>
+
+    <item android:id="@+id/itmelect"
+        android:title="Electronics"/>
+
+    <item android:id="@+id/itmRefresh"
+        android:title="REFRESH"/>
+
+    <item android:id="@+id/itmcreatestore"
+        android:title="NEW Store"/>
+
+
+
+
+</menu>
